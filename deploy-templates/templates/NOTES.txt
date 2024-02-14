@@ -1,0 +1,1 @@
+1. Application az-fastapi-v1 has been successfully deployed!!
